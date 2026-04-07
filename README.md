@@ -1,2 +1,5 @@
-# CS9840_Trans_Diff
-Diffusion model with UE
+
+Graph Diffusion + UE Project
+
+Run:
+python train.py
