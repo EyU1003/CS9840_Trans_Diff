@@ -190,7 +190,7 @@ src/vus.ipynb
 *.slxc
 
 /Matlab/
-*.png 
+
 /.venv/
 /saved_models/
 *.pth  
@@ -219,7 +219,7 @@ Miniconda3-latest-Linux-x86_64.sh
 *.npz
 *.csv
 *.pth
-*.png
+
 
 # Distribution / packaging
 .Python
@@ -398,10 +398,9 @@ src/vus.ipynb
 *.slxc
 
 /Matlab/
-*.png   
-*.log
+
 =======
-*.png 
+
 /.venv/
 Miniconda3-latest-Linux-x86_64.sh
 *.sh
