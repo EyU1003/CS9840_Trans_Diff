@@ -13,7 +13,7 @@ To address this limitation, this project integrates a diffusion model with a dif
 The overall pipeline is:
 
 <p align="center">
-  <img src="plots/frame.png" alt="Framework" width="700"/>
+  <img src="plots/frame.png" width="700"/>
 </p>
 
 ```text
