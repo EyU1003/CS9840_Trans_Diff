@@ -12,6 +12,10 @@ To address this limitation, this project integrates a diffusion model with a dif
 
 The overall pipeline is:
 
+<p align="center">
+  <img src="plots/frame.png" alt="Framework" width="700"/>
+</p>
+
 ```text
 (G0, Q, C) -> Diffusion Model -> Generated Network G' -> UE Solver -> Travel Time Cost
 ```
