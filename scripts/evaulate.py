@@ -1,7 +1,7 @@
 import torch
 
-from configs import DEVICE, DTYPE
-from model import TransportDiffusionModel
+from configs.configs import DEVICE, DTYPE
+from models.model import TransportDiffusionModel
 
 
 def evaluate_case(model: TransportDiffusionModel, cond_values, title: str):

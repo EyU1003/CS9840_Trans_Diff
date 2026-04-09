@@ -1,5 +1,5 @@
 import torch
-from configs import DEVICE, DTYPE
+from configs.configs import DEVICE, DTYPE
 
 
 class GraphNetwork:
