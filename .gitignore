@@ -380,7 +380,7 @@ cython_debug/
 /dataset_new/
 /dataset1/
 /results/
-/logs/
+
 /archive/
 /credentials.yml
 src/vus.ipynb
