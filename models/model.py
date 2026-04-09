@@ -3,7 +3,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from configs import (
+from configs.configs import (
     DEVICE,
     DTYPE,
     FEATURE_DIM,

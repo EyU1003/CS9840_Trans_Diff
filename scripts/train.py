@@ -2,8 +2,8 @@ import random
 import numpy as np
 import torch
 
-from configs import SEED, DEVICE, NUM_EPOCHS, BATCH_SIZE, LR, WEIGHT_DECAY, FEATURE_DIM
-from model import TransportDiffusionModel
+from configs.configs import SEED, DEVICE, NUM_EPOCHS, BATCH_SIZE, LR, WEIGHT_DECAY, FEATURE_DIM
+from models.model import TransportDiffusionModel
 
 
 def set_seed(seed=SEED):
