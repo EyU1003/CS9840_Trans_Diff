@@ -16,9 +16,6 @@ The overall pipeline is:
   <img src="outputs/plots/frame.png" alt="Framework" width="700"/>
 </p>
 
-```text
-(G0, Q, C) -> Diffusion Model -> Generated Network G' -> UE Solver -> Travel Time Cost
-```
 
 Where:
 
