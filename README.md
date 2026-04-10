@@ -93,6 +93,14 @@ Evaluate the model:
 python scripts/evaluate.py
 ```
 
+After merging, doc full_code.py contains all the required code, and its output shows the exact same result as the paper does.
+
+Full code:
+
+```bash
+python scripts/full_code.py
+```
+
 ## Key Idea
 
 The key contribution of this project is making the User Equilibrium layer differentiable so that traffic outcomes directly influence the learned network design. This enables transportation-aware generative modeling under realistic congestion behavior.
